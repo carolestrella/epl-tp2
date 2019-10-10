@@ -1,0 +1,3 @@
+# Questão 02: Expression PL 
+
+Implemente uma nova versão da família de programas para avaliação de expressões [1], utilizando uma linguagem de programação do seu interesse. Identifique construções dessa linguagem de programação que podem favorecer a modularização da família de programas. Avalie sua solução de acordo com os critérios explorados em [1]. De forma semelhante a questão anterior, nessa questão, serão avaliados aspectos de modularidade, completude e corretude da implementação, bem como a facilidade para derivar diferentes implementações da família de programas para avaliação de expressões.
